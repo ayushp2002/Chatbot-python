@@ -1,4 +1,5 @@
 import re
+import urllib
 
 message = ""
 while message != "bye":
